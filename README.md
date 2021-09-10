@@ -3,4 +3,4 @@ Some text
 [
 ...
 **Some text**
-]
+
